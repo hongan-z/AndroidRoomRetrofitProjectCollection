@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrainingProject</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Googlemap" translatable="false">AIzaSyB0xptTycFppqdpIhRppxpQwEqp3jre9eE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_Second_fragment">Hello blank fragment</string>
+    <string name="tab_navi">open</string>
+    <string name="tab_navi_close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_data">Insert data</string>
+</resources>

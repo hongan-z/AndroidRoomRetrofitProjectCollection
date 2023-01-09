@@ -1,0 +1,15 @@
+package NavigaDrawer;
+
+import androidx.appcompat.app.AppCompatActivity;
+import android.os.Bundle;
+
+import ExaData.tutorial.Training.R;
+
+public class Activity2 extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_2);
+    }
+}

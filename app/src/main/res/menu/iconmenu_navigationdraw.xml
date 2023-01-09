@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/menu_home"
+                android:icon="@drawable/ic_baseline_home_24"
+                android:title="HomeFragment" />
+            <item
+                android:id="@+id/menu_call"
+                android:icon="@drawable/ic_baseline_call_24"
+                android:title="SecondFragment" />
+
+            <item
+                android:id="@+id/menu_send"
+                android:icon="@drawable/ic_baseline_send_24"
+                android:title="Send" />
+        </menu>
+    </item>
+
+    <item android:title="Communication">
+        <menu>
+            <item
+                android:id="@+id/menu_setting"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="Setting" />
+            <item
+                android:id="@+id/menu_account"
+                android:icon="@drawable/ic_baseline_account_circle_24"
+                android:title="Account" />
+        </menu>
+    </item>
+
+
+
+</menu>
